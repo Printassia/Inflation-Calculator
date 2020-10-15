@@ -14,6 +14,7 @@ Have the user enter the inflation rate as a percentage, such as 5.6 (percent). Y
 program should then convert the percent to a fraction, such as 0.056, and should
 use a loop to estimate the price adjusted for inflation.
  */
+
 public class Exercise3_4 {
     public static void main(String[] args) {
 
